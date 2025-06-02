@@ -26,10 +26,10 @@
 class About extends Me { 
   constructor (){
     this.myTools = {  
-        "ProgramingLanguages" : { "CSS", "HTML", "Javascript" },
-        "OtherLanguages" : { "Bash", "Json", "Markdown" },
-        "Editors" : { "Vscode", "Neovim" },
-        "Platforms" : { "Mac","GNU/Linux" },
+        ProgramingLanguages : { "CSS", "HTML", "Javascript" },
+        OtherLanguages : { "Bash", "Json", "Markdown" },
+        Editors : { "Vscode", "Neovim" },
+        Platforms : { "Mac","GNU/Linux" },
       };
 }
 }
