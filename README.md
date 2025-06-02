@@ -29,7 +29,7 @@ class About extends Me {
         ProgramingLanguages : { "CSS", "HTML", "Javascript" },
         OtherLanguages : { "Bash", "Json", "Markdown" },
         Editors : { "Vscode", "Neovim" },
-        Platforms : { "Mac","GNU/Linux" },
+        Platforms : { "Ubuntu","GNU/Linux" },
       };
 }
 }
